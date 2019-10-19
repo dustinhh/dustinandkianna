@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #fcc0f2;
 }
 
 a:hover {
-  color: #fec503;
+  color: #f7a3e9;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #fcc0f2 !important;
 }
 
 h1,
